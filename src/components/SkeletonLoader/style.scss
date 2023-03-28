@@ -1,0 +1,14 @@
+.skeleton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+::v-deep .v-skeleton-loader .v-skeleton-loader__button {
+  margin: 15px;
+  width: 120px;
+}
+::v-deep .v-skeleton-loader .v-skeleton-loader__sentences {
+  margin: 15px;
+  width: 120px;
+}

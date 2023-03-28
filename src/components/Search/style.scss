@@ -1,0 +1,11 @@
+.search {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 400px;
+  width: 100%;
+
+  .v-input {
+    width: 100%;
+  }
+}
